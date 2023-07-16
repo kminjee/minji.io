@@ -19,7 +19,7 @@
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: Starter Kit
+title: MJ.io
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -28,7 +28,7 @@ description: >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: Change `tagline` in `_config.yml`
+tagline: FE Developer ☺︎✌
 
 # A list of keywords for your blog
 keywords: []
@@ -36,7 +36,7 @@ keywords: []
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo: /assets/img/logo.png
+logo: /assets/img/profile.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -48,10 +48,10 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title: Example
-    url: /example/
-  - title: Documentation
-    url: /docs/
+  - title: Programming
+    url: /:programming/
+  - title: FrontEnd
+    url: /:frontend/
   - title: About
     url: /about/
 
@@ -74,6 +74,10 @@ permalink: /:categories/:year-:month-:day-:title/
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
 paginate_path: /:num/
+
+# Favicon
+favicon: /favicon.ico
+apple_touch_icon: /assets/img/profile.png
 
 # Theme
 # ---------------------------------------------------------------------------------------
@@ -394,8 +398,8 @@ jekyll_compose:
         social media previews, etc.
       image:
         path: /assets/img/sidebar-bg.jpg
-    posts:
-      layout: post
+    programming:
+      layout: programming
       description: >
         A short ~160 character description of your post for search engines,
         social media previews, etc.

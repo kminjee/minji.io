@@ -49,9 +49,9 @@ author:
 # Add links to the sidebar.
 menu:
   - title: Programming
-    url: /:programming/
+    url: /programming/
   - title: FrontEnd
-    url: /:frontend/
+    url: /frontend/
   - title: About
     url: /about/
 
@@ -82,8 +82,8 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-theme: jekyll-theme-hydejack
-# remote_theme: hydecorp/hydejack@v9
+#theme: jekyll-theme-hydejack
+remote_theme: hydecorp/hydejack@v9
 
 # Customizaton
 # ----------------------------------------------------------------------------------------

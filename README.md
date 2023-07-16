@@ -1,1 +1,1 @@
-https://www.github.io/kminjee
+[Blog](https://kminjee.github.io/)

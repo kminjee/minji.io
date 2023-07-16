@@ -76,8 +76,8 @@ paginate: 10
 paginate_path: /:num/
 
 # Favicon
-favicon: /favicon.ico
-apple_touch_icon: /assets/img/profile.png
+# favicon: /favicon.ico
+# apple_touch_icon: /assets/img/profile.png
 
 # Theme
 # ---------------------------------------------------------------------------------------

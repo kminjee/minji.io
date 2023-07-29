@@ -1,5 +1,9 @@
 ---
 title: Dependency Injection
+categories:
+  - programming
+tags:
+  - programming
 ---
 
 ### Dependency 란?

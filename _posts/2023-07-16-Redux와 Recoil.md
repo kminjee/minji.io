@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redux와 Recoil
+title: tRPC
 categories: Frontend
 published: false
 ---

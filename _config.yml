@@ -19,16 +19,16 @@
 lang: en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title: MJ.io
+title: 𝐅𝐄 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐌𝐉
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description: >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+# description: >
+#   Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
+#   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: FE Developer ☺︎✌
+tagline: 𝑆ℎ𝑎𝑙𝑙𝑜𝑤  𝑚𝑒𝑛  𝑏𝑒𝑙𝑖𝑒𝑣𝑒  𝑖𝑛  𝑙𝑢𝑐𝑘,  𝑆𝑡𝑟𝑜𝑛𝑔  𝑚𝑒𝑛  𝑏𝑒𝑙𝑖𝑒𝑣𝑒  𝑖𝑛  𝑐𝑎𝑢𝑠𝑒  𝑎𝑛𝑑  𝑒𝒻𝒻𝑒𝑐𝑡.
 
 # A list of keywords for your blog
 keywords: []
@@ -49,11 +49,15 @@ author:
 # Add links to the sidebar.
 menu:
   - title: Programming
-    url: /programming/
-  - title: FrontEnd
-    url: /frontend/
-  - title: About
-    url: /about/
+    url: /Programming/
+  - title: Frontend
+    url: /Frontend/
+  - title: React Native
+    url: /ReactNative/
+  - title: Git & Github
+    url: /Git/
+  - title: Etc
+    url: /Etc/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -69,7 +73,7 @@ legal:
 copyright: © 2021. All rights reserved.
 
 # Format of the permalinks
-permalink: /:categories/:year-:month-:day-:title/
+permalink: /:categories/:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate: 10
@@ -82,7 +86,7 @@ paginate_path: /:num/
 # Theme
 # ---------------------------------------------------------------------------------------
 
-#theme: jekyll-theme-hydejack
+theme: jekyll-theme-hydejack
 remote_theme: hydecorp/hydejack@v9
 
 # Customizaton

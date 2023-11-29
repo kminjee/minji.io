@@ -20,7 +20,7 @@ react-native-nmap 라이브러리를 활용하여 네이버 맵뷰를 띄웠고 
 홈 탭에서는 현재 위치로 이동하는 버튼이 필요하기 때문에 `showMyLocationButton` 옵션을 추가했습니다.
 
 ```tsx
-<JDMap height={"500px"} showsMyLocationButton scrollGesturesEnabled={false} />
+<Map height={"500px"} showsMyLocationButton scrollGesturesEnabled={false} />
 ```
 
 <br>

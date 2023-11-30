@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 푸시 알림 (Push Notification)
+title: 푸시 알림 (Push Notification / OneSignal & Firebase)
 categories: Programming
 published: true
 ---

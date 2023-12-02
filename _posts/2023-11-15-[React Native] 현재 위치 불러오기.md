@@ -1,7 +1,7 @@
 ---
 layout: post
-title: React Native 현재 위치 불러오기
-categories: ReactNative
+title: [React Native] 현재 위치 불러오기
+categories: Frontend
 published: false
 ---
 

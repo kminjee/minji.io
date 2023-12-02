@@ -1,9 +1,11 @@
 ---
 layout: post
-title: 푸시 알림 (Push Notification)
-categories: Programming
+title: 푸시 알림 (Push Notification) (with. React Native)
+categories: Frontend
 published: true
 ---
+
+<br>
 
 ## 푸시 알림이란?
 

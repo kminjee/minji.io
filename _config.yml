@@ -52,8 +52,6 @@ menu:
     url: /programming/
   - title: Frontend
     url: /frontend/
-  - title: React Native
-    url: /reactnative/
   - title: Git & Github
     url: /git/
   - title: Etc

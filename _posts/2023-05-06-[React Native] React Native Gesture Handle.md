@@ -1,7 +1,7 @@
 ---
 layout: post
-title: React Native Gesture Handle
-categories: ReactNative
+title: [React Native] React Native Gesture Handle
+categories: Frontend
 published: true
 ---
 

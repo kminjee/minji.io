@@ -1,7 +1,7 @@
 ---
 layout: post
 title: EXC_BAD_ACCESS 에러
-categories: ReactNative
+categories: Frontend
 published: true
 ---
 

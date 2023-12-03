@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [React Native] Hermes
+title: (React Native) Hermes
 categories: Frontend
 published: true
 ---

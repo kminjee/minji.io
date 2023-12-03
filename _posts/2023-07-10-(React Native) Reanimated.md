@@ -1,7 +1,7 @@
 ---
 layout: post
-title: [React Native] React Native Reanimated
-categories: Frontend 
+title: (React Native) React Native Reanimated
+categories: Frontend
 published: true
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [React Native] React Native Testing
+title: (React Native) React Native Testing
 categories: Frontend
 published: true
 ---

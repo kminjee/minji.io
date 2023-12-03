@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [React] 모던 리액트 Deep Dive 1장
+title: (React) 모던 리액트 Deep Dive 1장
 categories: Frontend
 published: true
 ---
